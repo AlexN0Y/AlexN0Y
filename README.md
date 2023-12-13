@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AlexN0Y
+- 👋 Hi, I’m Oleksandr Gavrylov
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram - @nelomany ;
   LinkedIn - https://www.linkedin.com/in/oleksandr-gavrylov/
 
