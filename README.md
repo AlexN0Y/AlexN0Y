@@ -14,16 +14,23 @@ active with exercise and cycling.
 
 ## 🛠 Skills
 **Programming Languages:** Swift, C++, SQL
+
 **Frameworks & Libraries:** UIKit, SwiftUI, Foundation, Alamofire, URLSession, Auth0, Core Data, Firebase,
 SwiftSoup, AVFoundation, Whisper, Lottie, Combine, RevenueCat, AppHud, StoreKit, TikTokSDK, Facebook
 SDK
+
 **Concurrency:** GCD, async/await, Actors
+
 **Architectures & Patterns:** MVVM+C, MV+C, MVC+C, MVP+C, TCA (Composable Architecture);
 SOLID, KISS, DRY
+
 **DevOps & CI/CD:** Xcode Cloud, Swift Package Manager (SPM), CocoaPods, Git, Xcode, SourceTree
+
 **Analytics & Monitoring:** Sentry, Amplitude, OneSignal, AppsFlyer
+
 **Additional:** Deep/Universal Links, Push Notifications (remote & local), A/B testing, Trello, Jira, Slack,
 Discord, Figma
+
 
 ## Other Common Github Profile Sections
 🧠 I'm currently learning TCA architecture
